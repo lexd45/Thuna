@@ -2,10 +2,18 @@
 
 > **Thuna** (meaning "support" in Tamil) is an offline, voice-first AI health companion for India's 173M+ elderly citizens – especially those in rural areas with poor internet and low digital literacy.
 
+[![Download APK](https://img.shields.io/badge/Download-APK%20v1.0-brightgreen?style=for-the-badge&logo=android)](https://raw.githubusercontent.com/lexd45/Thuna/main/Thuna-v1.0-debug.apk)
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/lite)
 [![Hackathon](https://img.shields.io/badge/iQOO%20Hackathon%202026-Chennai-blue)](https://iqoo.reskilll.com/)
+
+## 📥 Quick Install
+
+Download and install the pre-built APK directly onto any Android device (Min SDK 26 / Android 8.0+):
+
+👉 **[Download Thuna-v1.0-debug.apk](https://raw.githubusercontent.com/lexd45/Thuna/main/Thuna-v1.0-debug.apk)** (61.6 MB)
 
 ## 🎯 The Problem
 
